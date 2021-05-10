@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SesisnandoLRNeto
-- 👀 I’m interested in learning methods and the most used technologies today
-- 🌱 I’m currently learning full stack development using technologies like ReactJs and SpringBoot
+- 👀 I’m interested in learning methods and the most used currents tecnologies
+- 🌱 I’m currently learning full stack development using technologies like ReactJs, Angular (Frontend), NodeJS and SpringBoot (Backend).
 - 📫 How to reach me nandolrneto@gmail.com
 
 <!---
