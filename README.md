@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SesisnandoLRNeto
-- 👀 I’m interested in learning methods and the most used currents tecnologies
-- 🌱 I’m currently learning full stack development using technologies like ReactJs, Angular (Frontend), NodeJS and SpringBoot (Backend).
+- 👋 Hi, I’m Sesisnando
+- 👀 II am interested in learning today's most used methods and frameworks. I hope I can help.
+- 🌱 I’m currently using the following frameworks for full stack development: Frontend - ReactJs and Angular, Backedn - NodeJS and SpringBoot.
 
 <!---
 SesisnandoLRNeto/SesisnandoLRNeto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
