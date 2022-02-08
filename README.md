@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sesisnando
 - 👀 II am interested in learning today's most used methods and frameworks. I hope I can help.
-- 🌱 I’m currently using the following frameworks for full stack development: Frontend - ReactJs and Angular, Backedn - NodeJS and SpringBoot.
+- 🌱 I’m currently using the following frameworks for full stack development: Frontend - ReactJs, NestJs and Angular, Backedn - NodeJS and SpringBoot and Mobile - React Native.
 
 <!---
 SesisnandoLRNeto/SesisnandoLRNeto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
