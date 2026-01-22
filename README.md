@@ -8,47 +8,6 @@ Senior **Full-Stack Software Engineer** focused on building **scalable, maintain
 
 ---
 
-## 🛠 Tech Stack
-
-**Frontend**
-- React, Next.js, Angular, Gatsby
-- TypeScript, JavaScript, HTML, CSS
-
-**Backend**
-- Node.js, NestJS, Spring Boot
-- REST APIs, Clean Architecture, DDD
-
-**Mobile & Desktop**
-- React Native
-- Electron
-
-**Other**
-- Git, CI/CD, Testing, Cloud (AWS)
-
----
-
-## 📌 What You’ll Find Here
-
-- Proofs of concept (POCs)
-- Architecture experiments
-- Real solutions to real problems
-- Clean, readable, and testable code
-
-I value **clarity, performance, and maintainability** over hype.
-
----
-
-## 📊 GitHub Stats
-
-<div>
-  <a href="https://github.com/SesisnandoLRNeto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SesisnandoLRNeto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SesisnandoLRNeto&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
----
-
 ## 🧰 Languages & Tools
 
 <div style="display: inline_block"><br>
@@ -63,6 +22,17 @@ I value **clarity, performance, and maintainability** over hype.
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
   <img align="center" alt="Gatsby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg">
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div>
+  <a href="https://github.com/SesisnandoLRNeto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SesisnandoLRNeto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SesisnandoLRNeto&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 ---
