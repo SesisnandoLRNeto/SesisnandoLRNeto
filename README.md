@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sesisnando
+### Hi, I'm Sesisnando
 
 Senior **Full-Stack Software Engineer** focused on building **scalable, maintainable, and real-world solutions**.
 
@@ -8,9 +8,9 @@ Senior **Full-Stack Software Engineer** focused on building **scalable, maintain
 
 ---
 
-## 🧰 Tech Stack
+### Tech Stack
 
-<div >
+<div>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +24,7 @@ Senior **Full-Stack Software Engineer** focused on building **scalable, maintain
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Stats
 
 <table>
   <tr>
@@ -42,7 +42,7 @@ Senior **Full-Stack Software Engineer** focused on building **scalable, maintain
 
 ---
 
-## 🌐 Connect With Me
+### Connect With Me
 
 <div>
   <a href="mailto:nandolrneto@gmail.com">
