@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Sesisnando Rodrigues – Full Stack Engineer" width="100%" />
+</p>
+
 ### Hi, I'm Sesisnando
 
 Senior **Full-Stack Software Engineer** focused on building **scalable, maintainable, and real-world solutions**.
@@ -30,6 +34,9 @@ Senior **Full-Stack Software Engineer** focused on building **scalable, maintain
   <tr>
     <td align="center">
       <img height="160" src="https://github-readme-stats.vercel.app/api?username=SesisnandoLRNeto&show_icons=true&theme=dark&hide_border=true"/>
+    </td>
+        <td align="center">
+      <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=SesisnandoLRNeto&theme=dark&hide_border=true"/>
     </td>
     <td align="center">
       <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SesisnandoLRNeto&layout=compact&theme=dark&hide_border=true"/>
