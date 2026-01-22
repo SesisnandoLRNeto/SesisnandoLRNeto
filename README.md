@@ -25,36 +25,14 @@ Senior **Full-Stack Software Engineer** focused on building **scalable, maintain
 </div>
 
 ---
-
 ## 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SesisnandoLRNeto&theme=dark)
-
----
-
-## 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SesisnandoLRNeto&theme=darkhub&no-frame=true&row=1)
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=SesisnandoLRNeto&theme=dark)
 
 ## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SesisnandoLRNeto&theme=github-dark)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=SesisnandoLRNeto&theme=github-dark)
-
----
-
-## 📊 Deep GitHub Metrics
-
-![Metrics](https://metrics.lecoq.io/SesisnandoLRNeto?template=classic&base.indepth=true&languages=1&followup=1&achievements=1&config.timezone=America/Sao_Paulo)
-
----
-
-## ⏱ Weekly Coding Activity (WakaTime)
-
-> Requires WakaTime account + GitHub integration
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark)
+## 📊 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/SesisnandoLRNeto?template=classic&languages=1&achievements=1)
 
 ---
 
