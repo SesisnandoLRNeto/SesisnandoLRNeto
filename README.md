@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Sesisnando Rodrigues – Full Stack Engineer" width="100%" />
+  <img src="./mario.gif" alt="Sesisnando Rodrigues – Full Stack Engineer" width="100%" />
 </p>
 
 ### Hi, I'm Sesisnando
